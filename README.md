@@ -53,7 +53,7 @@ The script will locate the database, activate Pro, and automatically kill the ap
       ```
    3. Run the script via Terminal:
       ```bash
-      python3 ColdTurkeyProActivator.py
+      python ColdTurkeyProActivator.py
       ````
       
    ### 🔸 macOS
