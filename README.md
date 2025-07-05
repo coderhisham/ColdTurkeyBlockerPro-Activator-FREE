@@ -27,7 +27,8 @@ This script enables the **PRO features** of Cold Turkey Blocker **for free** by 
 
 ## 🛠️ Workaround for Cold Turkey v4.7+
 
-1. 🔄 **Uninstall** any version ≥ 4.7
+1. 🔄 **Uninstall** any version ≥ 4.7 using the official method:  
+   👉 https://getcoldturkey.com/support/reinstall-instructions/
 2. 📥 **Install v4.6 or older**
    - You may find older installers online or through archive sources.
      - [Download v4.6 (Windows)](https://web.archive.org/web/20250417043425if_/https://getcoldturkey.com/files/Cold_Turkey_Installer.exe?v=16Apr25)
